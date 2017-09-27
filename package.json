@@ -1,0 +1,33 @@
+{
+  "name": "fitness-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisSConstantakos/fitness-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisSConstantakos/fitness-gulp/issues"
+  },
+  "homepage": "https://github.com/AlexisSConstantakos/fitness-gulp#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "gulp": "^3.9.1",
+    "gulp-about": "^1.1.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-beautify": "^2.0.1",
+    "gulp-changed-in-place": "^2.2.0",
+    "gulp-colorguard": "^1.1.0",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-pretty-url": "^0.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-tsfmt": "^1.0.2",
+    "gulp-w3c-css": "^1.0.1"
+  }
+}
